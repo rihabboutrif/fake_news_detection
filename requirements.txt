@@ -4,4 +4,4 @@ scikit-learn
 nltk
 pandas
 numpy
-
+spellchecker
